@@ -1,0 +1,12 @@
+A programming language is proposed to help programmer to process certain kinds of data and to
+provide useful output.The task of data processing is accomplished by executing series of commands
+called program.
+              A program usually contains different types of data types (integer, float, character
+etc.) and need to store the values being used in the program. C language is rich of data types. A C
+programmer has to employ proper data type as per his requirements.
+
+
+C has different data types for different types of data and can be broadly classified as:
+
+1. Primary Data Types
+2. Secondary Data Types
